@@ -1,0 +1,4 @@
+# Default TLS keys (can be overriden by individual services)
+key="/etc/wildduck/certs/mail_gmindonusa_com.key"
+#ca=["/path/to/server/ca1.pem", "/path/to/server/ca2.pem"]
+cert="/etc/wildduck/certs/mail_gmindonusa_com.pem"

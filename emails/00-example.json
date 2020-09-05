@@ -1,0 +1,16 @@
+{
+    "disabled": false,
+
+    "flag": true,
+
+    "from": {
+        "name": "GMI-Mail Support",
+        "address": "info@[DOMAIN]"
+    },
+    "to": {
+        "name": "[NAME]",
+        "address": "[EMAIL]"
+    },
+
+    "subject": "[FNAME], welcome to our awesome service!"
+}
